@@ -17,7 +17,7 @@ The pipeline combines:
 - transcript generation
 - corpus export
 
-The final result is the **Faroese Parliament Speech Corpus (FPSC)** containing parliamentary speech recordings together with automatically generated transcripts and metadata.
+The final result is the **Faroese Parliament Speech Corpus (FPSC)** containing parliamentary speech recordings together with automatically generated transcripts and metadata. The corpus can be found here: https://huggingface.co/datasets/davidilag/FPSC
 
 ---
 
